@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+ 
 import ToggleButton from './components/ToggleButton';
-
+ 
 ReactDOM.render(
-  <ToggleButton />
+  <ToggleButton />,
   document.getElementById('root')
-)
+);
