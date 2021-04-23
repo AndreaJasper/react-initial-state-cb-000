@@ -5,5 +5,6 @@ import ToggleButton from './components/ToggleButton';
 
 ReactDOM.render(
   <div>Components Need To Be Mounted</div>,
+  <ToggleButton />
   document.getElementById('root')
 )
